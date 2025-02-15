@@ -1,0 +1,10 @@
+Type: 0, sbyte teleport = 0
+ Map name: Rừng nấm
+Type: 0, sbyte teleport = 0
+ Map name: Rừng nấm
+Type: 0, sbyte teleport = 0
+ Map name: Rừng nấm
+Type: 0, sbyte teleport = 0
+ Map name: Rừng nấm
+Type: 0, sbyte teleport = 0
+ Map name: Rừng nấm

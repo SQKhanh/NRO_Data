@@ -1,0 +1,12 @@
+Type: 0, sbyte teleport = 3
+ Map name: Làng Aru
+Type: 0, sbyte teleport = 0
+ Map name: Làng Aru
+Type: 0, sbyte teleport = 0
+ Map name: Làng Aru
+Type: 0, sbyte teleport = 3
+ Map name: Làng Aru
+Type: 0, sbyte teleport = 0
+ Map name: Làng Aru
+Type: 0, sbyte teleport = 0
+ Map name: Làng Aru

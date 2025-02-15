@@ -1,0 +1,6 @@
+Type: 0, sbyte teleport = 1
+ Map name: Trạm tàu vũ trụ
+Type: 0, sbyte teleport = 0
+ Map name: Trạm tàu vũ trụ
+Type: 0, sbyte teleport = 1
+ Map name: Trạm tàu vũ trụ

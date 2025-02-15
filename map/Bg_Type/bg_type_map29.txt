@@ -1,0 +1,4 @@
+Type: 0, sbyte teleport = 0
+ Map name: Nam Kamê
+Type: 0, sbyte teleport = 0
+ Map name: Nam Kamê

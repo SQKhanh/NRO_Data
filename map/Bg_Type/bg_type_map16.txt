@@ -1,0 +1,22 @@
+Type: 0, sbyte teleport = 0
+ Map name: Làng Plant
+Type: 0, sbyte teleport = 0
+ Map name: Làng Plant
+Type: 0, sbyte teleport = 0
+ Map name: Làng Plant
+Type: 0, sbyte teleport = 0
+ Map name: Làng Plant
+Type: 0, sbyte teleport = 0
+ Map name: Làng Plant
+Type: 0, sbyte teleport = 0
+ Map name: Làng Plant
+Type: 0, sbyte teleport = 0
+ Map name: Làng Plant
+Type: 0, sbyte teleport = 0
+ Map name: Làng Plant
+Type: 0, sbyte teleport = 0
+ Map name: Làng Plant
+Type: 0, sbyte teleport = 0
+ Map name: Làng Plant
+Type: 0, sbyte teleport = 0
+ Map name: Làng Plant

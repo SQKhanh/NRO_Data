@@ -1,0 +1,12 @@
+Type: 0, sbyte teleport = 0
+ Map name: Thung lũng tre
+Type: 0, sbyte teleport = 0
+ Map name: Thung lũng tre
+Type: 0, sbyte teleport = 0
+ Map name: Thung lũng tre
+Type: 0, sbyte teleport = 0
+ Map name: Thung lũng tre
+Type: 0, sbyte teleport = 0
+ Map name: Thung lũng tre
+Type: 0, sbyte teleport = 0
+ Map name: Thung lũng tre

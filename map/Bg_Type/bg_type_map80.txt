@@ -1,0 +1,4 @@
+Type: 0, sbyte teleport = 0
+ Map name: Núi khỉ vàng
+Type: 0, sbyte teleport = 0
+ Map name: Núi khỉ vàng

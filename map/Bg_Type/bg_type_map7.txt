@@ -1,0 +1,2 @@
+Type: 4, sbyte teleport = 0
+ Map name: Làng Mori

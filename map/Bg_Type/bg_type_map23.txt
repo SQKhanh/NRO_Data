@@ -1,0 +1,8 @@
+Type: 0, sbyte teleport = 0
+ Map name: Nhà Broly
+Type: 0, sbyte teleport = 3
+ Map name: Nhà Broly
+Type: 0, sbyte teleport = 1
+ Map name: Nhà Broly
+Type: 0, sbyte teleport = 0
+ Map name: Nhà Broly

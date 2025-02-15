@@ -1,0 +1,2 @@
+Type: 1, sbyte teleport = 0
+ Map name: Núi cây quỷ

@@ -1,0 +1,16 @@
+Type: 0, sbyte teleport = 0
+ Map name: Đồi hoa cúc
+Type: 0, sbyte teleport = 0
+ Map name: Đồi hoa cúc
+Type: 0, sbyte teleport = 0
+ Map name: Đồi hoa cúc
+Type: 0, sbyte teleport = 0
+ Map name: Đồi hoa cúc
+Type: 0, sbyte teleport = 0
+ Map name: Đồi hoa cúc
+Type: 0, sbyte teleport = 0
+ Map name: Đồi hoa cúc
+Type: 0, sbyte teleport = 0
+ Map name: Đồi hoa cúc
+Type: 0, sbyte teleport = 0
+ Map name: Đồi hoa cúc

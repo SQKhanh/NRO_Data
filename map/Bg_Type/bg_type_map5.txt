@@ -1,0 +1,16 @@
+Type: 0, sbyte teleport = 0
+ Map name: Đảo Kamê
+Type: 0, sbyte teleport = 0
+ Map name: Đảo Kamê
+Type: 0, sbyte teleport = 0
+ Map name: Đảo Kamê
+Type: 0, sbyte teleport = 0
+ Map name: Đảo Kamê
+Type: 0, sbyte teleport = 0
+ Map name: Đảo Kamê
+Type: 0, sbyte teleport = 0
+ Map name: Đảo Kamê
+Type: 0, sbyte teleport = 0
+ Map name: Đảo Kamê
+Type: 0, sbyte teleport = 1
+ Map name: Đảo Kamê

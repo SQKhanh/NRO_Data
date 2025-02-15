@@ -1,0 +1,10 @@
+Type: 0, sbyte teleport = 0
+ Map name: Đồi hoang
+Type: 0, sbyte teleport = 0
+ Map name: Đồi hoang
+Type: 0, sbyte teleport = 0
+ Map name: Đồi hoang
+Type: 0, sbyte teleport = 0
+ Map name: Đồi hoang
+Type: 0, sbyte teleport = 0
+ Map name: Đồi hoang

@@ -1,0 +1,2 @@
+Type: 0, sbyte teleport = 3
+ Map name: Núi khỉ đỏ

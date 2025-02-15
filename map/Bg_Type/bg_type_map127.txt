@@ -1,0 +1,8 @@
+Type: 2, sbyte teleport = 0
+ Map name: Cổng phi thuyền
+Type: 2, sbyte teleport = 0
+ Map name: Cổng phi thuyền
+Type: 2, sbyte teleport = 0
+ Map name: Cổng phi thuyền
+Type: 2, sbyte teleport = 0
+ Map name: Cổng phi thuyền

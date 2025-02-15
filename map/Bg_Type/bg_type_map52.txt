@@ -1,0 +1,14 @@
+Type: 0, sbyte teleport = 0
+ Map name: Đại hội võ thuật
+Type: 0, sbyte teleport = 0
+ Map name: Đại hội võ thuật
+Type: 0, sbyte teleport = 0
+ Map name: Đại hội võ thuật
+Type: 0, sbyte teleport = 0
+ Map name: Đại hội võ thuật
+Type: 0, sbyte teleport = 0
+ Map name: Đại hội võ thuật
+Type: 0, sbyte teleport = 0
+ Map name: Đại hội võ thuật
+Type: 0, sbyte teleport = 0
+ Map name: Đại hội võ thuật

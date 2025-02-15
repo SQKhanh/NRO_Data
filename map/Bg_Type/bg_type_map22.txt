@@ -1,0 +1,16 @@
+Type: 4, sbyte teleport = 0
+ Map name: Nhà Moori
+Type: 4, sbyte teleport = 0
+ Map name: Nhà Moori
+Type: 4, sbyte teleport = 3
+ Map name: Nhà Moori
+Type: 4, sbyte teleport = 0
+ Map name: Nhà Moori
+Type: 4, sbyte teleport = 0
+ Map name: Nhà Moori
+Type: 4, sbyte teleport = 0
+ Map name: Nhà Moori
+Type: 4, sbyte teleport = 0
+ Map name: Nhà Moori
+Type: 4, sbyte teleport = 0
+ Map name: Nhà Moori
