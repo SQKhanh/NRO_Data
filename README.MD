@@ -1,5 +1,7 @@
 # NRO_Data
 
+## Tham khảo data src C#: https://github.com/baodubaiiii/NgocRongOnline_Data
+
 ## Contact
 
 - **Facebook:** [https://www.facebook.com/arriety.toxic/](https://www.facebook.com/arriety.toxic/)
